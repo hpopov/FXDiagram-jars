@@ -1,4 +1,4 @@
-#FXDiagram binaries
+# FXDiagram binaries
 
 ---
 
@@ -6,7 +6,7 @@ This repository has been created for convenience developing application using Ja
 It contains packaged jars for standalone application creating (outside of eclipse).
 Unfortunately those jars lacks source information and **are not** present at **Maven**.
 
-##Usage
+## Usage
 
 In order to use both packaged jars and sources you need to download sources from the next repositories:
 - git@github.com:JanKoehnlein/FXDiagram.git
@@ -14,7 +14,7 @@ In order to use both packaged jars and sources you need to download sources from
 - git@github.com:JanKoehnlein/fxdiagram-xtext-examples.git (I guess it is not related to standalone project);
 - https://git.rtsys.informatik.uni-kiel.de/scm/kieler/pragmatics.git (is used for autolayout features)
 
-##Dependencies
+## Dependencies
 
 In order to develop your own standalone JavaFX application with FXDiagram you need to manually include the following jars to your classpath:
 * All the de.cau.cs.kieler-* jars (used for autolayout);
