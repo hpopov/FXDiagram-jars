@@ -22,6 +22,7 @@ In order to develop your own standalone JavaFX application with FXDiagram you ne
 * de.fxdiagram.external-{version}-SNAPSHOT.jar
 * de.fxdiagram.lib-{version}-SNAPSHOT.jar
 * de.fxdiagram.noeclipse-{version}-SNAPSHOT.jar;
+* de.fxdiagram.annotation-{version}-SNAPSHOT.jar; (needs for standalone project compilation with Maven)
 * de.fxdiagram.mapping-{version}-SNAPSHOT.jar (if you are going to leverage FXDiagram model mapping feature
 
 Currently the only version uploaded is 0.35.1-SNAPSHOT.
